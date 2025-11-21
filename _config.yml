@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanfang"
+title                    : "Shaoqiang"
 description              : "👩🏻‍🎓 25Fall Ph.D. Student"
 repository               : "yf0812/yf0812.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yanfang Liu 刘艳芳"
+  name             : "Shaoqiang Lu"
   avatar           : "images/lyf_1.JPG"
   # bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
   bio: |
