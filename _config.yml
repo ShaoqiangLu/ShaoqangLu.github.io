@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shaoqiang Lu"
+  name             : "Shaoqiang Lu\n陆少强"
   avatar           : "images/lsq.JPG"
   # bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
   bio: |
