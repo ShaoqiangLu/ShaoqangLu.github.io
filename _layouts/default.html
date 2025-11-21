@@ -1,0 +1,52 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <!-- <link rel="stylesheet" href="{{ '/assets/css/custom.scss' | relative_url }}"> -->
+     <style>
+  /* 全局字体放大 */
+  html {
+    font-size: 18px !important; /* 基准字号 */
+  }
+  
+  /* 移动端适配 */
+  @media (max-width: 768px) {
+    html {
+      font-size: 16px !important;
+    }
+  }
+  
+  /* 修正特殊元素 */
+  code, pre {
+    font-size: 0.9em !important;
+  }
+</style>
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
+</html>
