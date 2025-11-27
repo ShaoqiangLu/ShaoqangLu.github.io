@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaoqiang"
-description              : "👩🏻‍🎓 2022 Fall Ph.D"
+description              : "👨🏻‍🎓 2022 Fall Ph.D"
 repository               : "https://shaoqianglu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name: "<p align='center'>Shaoqiang Lu<br>陆少强</p>"
   avatar           : "images/lsq.jpg"
-  # bio              : "The Chinese University of Hong Kong // Department of Computer Science and Engineering"
+  # bio              : "Shanghai Jiao Tong University"
   bio: |
 
     <a href="https://www.cuhk.edu.hk/" target="_blank">The Chinese University of Hong Kong</a><br> 
