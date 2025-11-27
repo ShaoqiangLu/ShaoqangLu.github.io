@@ -24,11 +24,11 @@ author:
   name: "<p align='center'>Shaoqiang Lu<br>陆少强</p>"
   avatar           : "images/lsq.jpg"
   bio              : "Shanghai Jiao Tong University"
-  location         : "Sha Tin, Hong Kong"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=67TW5L8AAAAJ&hl=zh-CN"
-  email            : "yfliu0812@163.com"
+  email            : "lushaoqiang@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/yf0812" # e.g., "github username"
+  github           : "https://shaoqianglu.github.io" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
