@@ -68,7 +68,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
       </li>
       <li>
         <strong>Xidian University</strong> (2015.09 – 2019.06)<br>
-        <em>Bachelor’s in Integrated Circuit Design and Integrated Systems</em>
+        <em>Bachelor’s in Integrated Circuit Design and Systems</em>
       </li>
 
 
