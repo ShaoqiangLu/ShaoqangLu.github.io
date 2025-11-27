@@ -56,9 +56,9 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   <div style="flex: 1; margin-left: 1px;">
     <h2>🎓 Education</h2>
     <ul>
-      <li><strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em></li>
-      <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
-      <li><strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em></li>
+      <li><strong>Shanghai Jiao Tong University</strong><br><em>Ph.D. degree in Integrated Circuits Engineering</em></li>
+      <li><strong>Xidian University</strong><br><em>Master’s degree in Integrated Circuit Design</em></li>
+      <li><strong>Xidian University</strong><br><em>Bachelor’s degree in Integrated Circuit Design and Integrated Systems</em></li>
     </ul>
   </div>
 
