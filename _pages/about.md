@@ -28,18 +28,15 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
     📄 Download CV
   </a>
 </div>
-<!--
-## Education  
--->
 
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 1; margin-right: 1px;">
     <h2>🎯 Research Interests</h2>
     <ul>
-      <li><strong>Digital IC Design for AI Chips</strong></li>
-      <li><strong>Hardware/Software Co-Optimization</strong></li>
-      <li><strong>AI Compiler Development</strong></li>
-      <li><strong>FPGA-Based accelerator</strong></li>
+      <li>Digital IC Design for AI Chips</li>
+      <li>Hardware/Software Co-Optimization</li>
+      <li>AI Compiler Development</li>
+      <li>FPGA-Based accelerator</li>
     </ul>
   </div>
 
