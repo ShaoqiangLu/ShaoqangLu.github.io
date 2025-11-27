@@ -45,7 +45,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
 
   <div style="flex: 1; margin-right: 1px;">
-    <h2>🌐 Research Interests</h2>
+    <h2>✨ Research Interests</h2>
     <ul>
       <li><strong>Electronic Design Automation (EDA)</strong></li>
       <li><strong>Design Space Exploration (DSE)</strong></li>
