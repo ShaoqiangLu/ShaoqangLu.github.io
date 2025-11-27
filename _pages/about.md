@@ -29,19 +29,6 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </a>
 </div>
 
-<!-- ## Interests  
-- **Artificial Intelligence**  
-- **Electronic Design Automation**  
-- **Rare Event Analysis**  
-
-## Education  
-- **PhD Computer Science and Engineering**  
-  *Stanford University*  
-- **MEng Electronic Information**  
-  *Beihang University*  
-- **BSc Artificial Intelligence**  
-  *University of Jinan* -->
-
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 1; margin-right: 1px;">
     <h2>🎯 Research Interests</h2>
