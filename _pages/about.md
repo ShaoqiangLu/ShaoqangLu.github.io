@@ -19,7 +19,12 @@ redirect_from:
 
 # ✨ About me
 
-I am currently a Ph.D. candidate in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), starting Fall 2025, under the supervision of [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/), with additional guidance from [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/). 
+I am currently a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also conducting a research internship at the [Eastern Institute of Technology, Ningbo.](https://www.eitech.edu.cn/)
+
+
+
+#I am currently a Ph.D. candidate in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), starting Fall 2025, under the supervision of [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/), with additional guidance from [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/). 
+
 <!-- Her research focuses on [briefly state your research area, e.g., "computer-aided design for integrated circuits" or "algorithmic optimization in electronic design automation"]. -->
 Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science and Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/) and [Prof. Yue Zhang](https://shi.buaa.edu.cn/yuezhang/zh_CN/index.htm).
 
