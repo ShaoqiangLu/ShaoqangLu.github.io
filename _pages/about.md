@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 # 😄 About Me
 
 I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the [Eastern Institute of Technology (EIT), Ningbo](https://www.eitech.edu.cn/). Prior to that, I obtained my M.S. degree from [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
@@ -29,28 +28,20 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </a>
 </div>
 
-<!--
-## Research Interests
-...
-## Education
-...
--->
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 1; margin-right: 1px;">
-  <h2>🎯 Research Interests</h2>
-  <ul>
-    <li>Digital IC Design for AI Chips</li>
-    <li>Hardware/Software Co-Optimization</li>
-    <li>AI Compiler Development</li>
-    <li>FPGA-Based Accelerator</li>
-  </ul>
+    <h2>🎯 Research Interests</h2>
+    <ul>
+      <li>Digital IC Design for AI Chips</li>
+      <li>Hardware/Software Co-Optimization</li>
+      <li>AI Compiler Development</li>
+      <li>FPGA-Based Accelerator</li>
+    </ul>
   </div>
 
   <div style="flex: 1; margin-left: 1px;">
     <h2>🎓 Education</h2>
     <ul>
-
-      
       <li>
         <strong>Shanghai Jiao Tong University</strong> (2022.09 – 2026.06)<br>
         <em>Ph.D. in Integrated Circuits Engineering</em>
@@ -63,12 +54,8 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
         <strong>Xidian University</strong> (2015.09 – 2019.06)<br>
         <em>Bachelor’s in Integrated Circuit Design and Systems</em>
       </li>
-
-
-
     </ul>
   </div>
-
 </div>
 
 
