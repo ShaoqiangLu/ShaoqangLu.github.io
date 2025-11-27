@@ -16,59 +16,49 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 😄 About Me
 
-# ✨ About me
-
-I am currently a Ph.D. candidate in Computer Science and Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/), starting Fall 2025, under the supervision of [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/), with additional guidance from [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/). 
-<!-- Her research focuses on [briefly state your research area, e.g., "computer-aided design for integrated circuits" or "algorithmic optimization in electronic design automation"]. -->
-Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science and Engineering from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), where I conducted research under the guidance of [Prof. Wei Xing](https://wxing.me/) and [Prof. Yue Zhang](https://shi.buaa.edu.cn/yuezhang/zh_CN/index.htm).
+I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the [Eastern Institute of Technology (EIT), Ningbo](https://www.eitech.edu.cn/). Prior to that, I obtained my M.S. degree from [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
 
 <div style="margin-top: 10px;">
-  <a href="your-cv-link.pdf" style="text-decoration: none;">
-    <button style="background-color: #333333; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 14px;">
-      📄 Download CV
-    </button>
+  <a href="https://github.com/ShaoqiangLu"
+     target="_blank"
+     style="background-color: #333333; color: white; padding: 5px 10px; border-radius: 4px; font-size: 14px; text-decoration: none; display: inline-block;">
+    📄 Download CV
   </a>
 </div>
 
-<!-- ## Interests  
-- **Artificial Intelligence**  
-- **Electronic Design Automation**  
-- **Rare Event Analysis**  
-
-## Education  
-- **PhD Computer Science and Engineering**  
-  *Stanford University*  
-- **MEng Electronic Information**  
-  *Beihang University*  
-- **BSc Artificial Intelligence**  
-  *University of Jinan* -->
-
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 1; margin-right: 1px;">
-    <h2>🔮 Research Interests</h2>
+    <h2>🎯 Research Interests</h2>
     <ul>
-      <li><strong>Electronic Design Automation (EDA)</strong></li>
-      <li><strong>Design Space Exploration (DSE)</strong></li>
-      <li><strong>Uncertainty Quantification</strong></li>
+      <li>Digital IC Design for AI Chips</li>
+      <li>Hardware/Software Co-Optimization</li>
+      <li>AI Compiler Development</li>
+      <li>FPGA-Based Accelerator</li>
     </ul>
   </div>
 
   <div style="flex: 1; margin-left: 1px;">
     <h2>🎓 Education</h2>
     <ul>
-      <li><strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em></li>
-      <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
-      <li><strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em></li>
+      <li>
+        <strong>Shanghai Jiao Tong University</strong> (2022.09 – 2026.06)<br>
+        <em>Ph.D. in Integrated Circuits Engineering</em>
+      </li>
+      <li>
+        <strong>Xidian University</strong> (2019.09 – 2022.06)<br>
+        <em>Master’s in Integrated Circuit Design</em>
+      </li>
+      <li>
+        <strong>Xidian University</strong> (2015.09 – 2019.06)<br>
+        <em>Bachelor’s in Integrated Circuit Design and Systems</em>
+      </li>
     </ul>
   </div>
-
 </div>
 
-
-
-# 🔥 News
+# 🎖 Awards
 - *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB)
 - *2024.11*: &nbsp;🎉 One paper has been accepted by DATE 2025!
 - *2024.09*: &nbsp;🎯 I will pursue a PhD in Computer Science and Engineering (CSE) at CUHK in August next year!
@@ -80,8 +70,6 @@ Prior to joining CUHK, I obtained my M.S. degree in Integrated Circuit Science a
 
 
 # 📝 Publications 
-
-## Conference Paper 👇
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
