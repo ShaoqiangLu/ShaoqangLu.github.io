@@ -38,7 +38,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
       <li>Digital IC Design for AI Chips</li>
       <li>Hardware/Software Co-Optimization</li>
       <li>AI Compiler Development</li>
-      <li>FPGA-Based accelerator</li>
+      <li>FPGA-Based Accelerator</li>
     </ul>
   </div>
 
