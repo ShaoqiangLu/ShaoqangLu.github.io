@@ -36,14 +36,15 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - **Rare Event Analysis**  
 
 ## Education  
-  -->
+
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 1; margin-right: 1px;">
-    <h2>✨ Research Interests</h2>
+    <h2>🎯 Research Interests</h2>
     <ul>
-      <li><strong>Electronic Design Automation (EDA)</strong></li>
-      <li><strong>Design Space Exploration (DSE)</strong></li>
-      <li><strong>Uncertainty Quantification</strong></li>
+      <li><strong>Digital IC Design for AI Chips</strong></li>
+      <li><strong>Hardware/Software Co-Optimization</strong></li>
+      <li><strong>AI Compiler Development</strong></li>
+      <li><strong>FPGA-Based accelerator</strong></li>
     </ul>
   </div>
 
@@ -57,7 +58,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
         <em>Ph.D. in Integrated Circuits Engineering</em>
       </li>
       <li>
-        <strong>Xidian University</strong> (2022.09 – 2019.06)<br>
+        <strong>Xidian University</strong> (2019.09 – 2022.06)<br>
         <em>Master’s in Integrated Circuit Design</em>
       </li>
       <li>
@@ -73,7 +74,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 </div>
 
 
-
+<!--
 # 🔥 News
 - *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB)
 - *2024.11*: &nbsp;🎉 One paper has been accepted by DATE 2025!
@@ -83,7 +84,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - *2023.09*: &nbsp;🎉 One paper has been accepted by ASP-DAC 2024!
 - *2023.07*: &nbsp;🎉 One paper has been accepted by ICCAD 2023!
 - *2023.02*: &nbsp;🎉 One paper has been accepted by DAC 2023!
-
+-->
 
 # 📝 Publications 
 
