@@ -22,9 +22,11 @@ redirect_from:
 I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the [Eastern Institute of Technology (EIT), Ningbo](https://www.eitech.edu.cn/). Prior to that, I obtained my M.S. degree from [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
 
 <div style="margin-top: 10px;">
-  <a href="your-cv-link.pdf" style="text-decoration: none;">
+  <a href="https://github.com/ShaoqiangLu"
+     style="text-decoration: none;"
+     target="_blank">
     <button style="background-color: #333333; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 14px;">
-      📄 [Download CV](https://github.com/ShaoqiangLu)
+      📄 Download CV
     </button>
   </a>
 </div>
