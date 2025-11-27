@@ -28,6 +28,45 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </a>
 </div>
 
+
+<!-- ## Interests  
+- **Artificial Intelligence**  
+- **Electronic Design Automation**  
+- **Rare Event Analysis**  
+
+## Education  
+- **PhD Computer Science and Engineering**  
+  *Stanford University*  
+- **MEng Electronic Information**  
+  *Beihang University*  
+- **BSc Artificial Intelligence**  
+  *University of Jinan* -->
+
+  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+
+  <div style="flex: 1; margin-right: 1px;">
+    <h2>🔮 Research Interests</h2>
+    <ul>
+      <li><strong>Electronic Design Automation (EDA)</strong></li>
+      <li><strong>Design Space Exploration (DSE)</strong></li>
+      <li><strong>Uncertainty Quantification</strong></li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; margin-left: 1px;">
+    <h2>🎓 Education</h2>
+    <ul>
+      <li><strong>PhD Computer Science and Engineering</strong><br><em>The Chinese University of Hong Kong</em></li>
+      <li><strong>MEng Electronic Information</strong><br><em>Beihang University</em></li>
+      <li><strong>BSc Electrical Engineering and Automation</strong><br><em>University of Jinan</em></li>
+    </ul>
+  </div>
+
+</div>
+
+
+
+<!--
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 1; margin-right: 1px;">
     <h2>🎯 Research Interests</h2>
@@ -57,7 +96,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
     </ul>
   </div>
 </div>
-
+-->
 
 <!--
 # 🔥 News
