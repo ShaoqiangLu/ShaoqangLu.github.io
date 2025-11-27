@@ -45,7 +45,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   <div style="display: flex; justify-content: space-between; margin-top: 20px;">
 
   <div style="flex: 1; margin-right: 1px;">
-    <h2>🔮 Research Interests</h2>
+    <h2>🌐 Research Interests</h2>
     <ul>
       <li><strong>Electronic Design Automation (EDA)</strong></li>
       <li><strong>Design Space Exploration (DSE)</strong></li>
@@ -56,9 +56,16 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   <div style="flex: 1; margin-left: 1px;">
     <h2>🎓 Education</h2>
     <ul>
-      <li><strong>Shanghai Jiao Tong University</strong><br><em>Ph.D. degree in Integrated Circuits Engineering</em></li>
-      <li><strong>Xidian University</strong><br><em>Master’s degree in Integrated Circuit Design</em></li>
-      <li><strong>Xidian University</strong><br><em>Bachelor’s degree in Integrated Circuit Design and Integrated Systems</em></li>
+    <li><strong>Shanghai Jiao Tong University</strong><br>
+        <em>Ph.D. in Integrated Circuit Engineering, 09/2022 – present</em>
+    </li>
+    <li><strong>Xidian University</strong><br>
+        <em>M.S. in Microelectronics, 09/2019 – 06/2022</em>
+    </li>
+    <li><strong>Xidian University</strong><br>
+        <em>B.Eng. in Integrated Circuit Design and Integrated Systems, 09/2015 – 06/2019</em>
+    </li>
+
     </ul>
   </div>
 
