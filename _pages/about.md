@@ -216,47 +216,4 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </a>
 </div>
 
-<!-- ## Journal Paper 👇 -->
 
-<!-- <div style="display: flex; align-items: center;">
-  <div class="badge">CVPR 2016</div>
-  <div>
-    <a href="https://github.com">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet
-    </a>, A, B, C, <strong>CVPR 2020</strong>
-  </div>
-</div> -->
-
-# 🎖 Selected Honors and Awards
-- *2024.10* National Scholarship (Master). 
-- *2023.10* National Scholarship (Master) (Top 1%). 
-- *2020.10* National Scholarship (Undergraduate) (Top 1%). 
-- *2024.11* Outstanding Master's Thesis Award.
-- *2024.11* Beijing Outstanding Graduate.
-- *2024.06* Top Ten Graduate Award (Highest Honor for Graduate Students at Beihang University).
-<!-- - *2024.04* Outstanding Graduate of Beihang University. -->
-<!-- - *2024.10* Beihang University Merit Student. -->
-- *2024.05* Huawei Scholarship.
-<!-- - *2024.11* Outstanding Master's Thesis Award. -->
-<!-- - *2023.10* National Scholarship (Master) (Top 1%).  -->
-<!-- - *2023.10* Beihang University Merit Student. -->
-- *2022.06* Outstanding Bachelor's Thesis Award.
-- *2020.12* Outstanding Student of Shandong Province.
-<!-- - *2020.10* National Scholarship (Undergraduate) (Top 1%).  -->
-
-<!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-<!-- # 💬 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Experiences
-### The Chinese University of Hong Kong (Shenzhen)
-- *2025.02 - 2025.07*, Research Assistant, supervised by [Prof. Tinghuan Chen](https://mypage.cuhk.edu.cn/academics/chentinghuan/)
-
-### Peer Reviewer
-- *2025.05* IEEE/ACM TODAES
