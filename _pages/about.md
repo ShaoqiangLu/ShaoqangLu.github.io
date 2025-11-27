@@ -24,7 +24,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 <div style="margin-top: 10px;">
   <a href="your-cv-link.pdf" style="text-decoration: none;">
     <button style="background-color: #333333; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 14px;">
-      📄 Download CV
+      📄 [Download CV](https://github.com/ShaoqiangLu)
     </button>
   </a>
 </div>
