@@ -56,15 +56,22 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   <div style="flex: 1; margin-left: 1px;">
     <h2>🎓 Education</h2>
     <ul>
-    <li><strong>Shanghai Jiao Tong University</strong><br>
-        <em>Ph.D. in Integrated Circuit Engineering, 09/2022 – present</em>
-    </li>
-    <li><strong>Xidian University</strong><br>
-        <em>M.S. in Microelectronics, 09/2019 – 06/2022</em>
-    </li>
-    <li><strong>Xidian University</strong><br>
-        <em>B.Eng. in Integrated Circuit Design and Integrated Systems, 09/2015 – 06/2019</em>
-    </li>
+
+      
+      <li>
+        <strong>Shanghai Jiao Tong University</strong> (09/2022 – Present)<br>
+        <em>Ph.D. in Integrated Circuits Engineering</em>
+      </li>
+      <li>
+        <strong>Xidian University</strong> (MM/YYYY – MM/YYYY)<br>
+        <em>Master’s in Integrated Circuit Design</em>
+      </li>
+      <li>
+        <strong>Xidian University</strong> (MM/YYYY – MM/YYYY)<br>
+        <em>Bachelor’s in Integrated Circuit Design and Integrated Systems</em>
+      </li>
+
+
 
     </ul>
   </div>
