@@ -23,13 +23,12 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 <div style="margin-top: 10px;">
   <a href="https://github.com/ShaoqiangLu"
-     style="text-decoration: none;"
-     target="_blank">
-    <button style="background-color: #333333; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 14px;">
-      📄 Download CV
-    </button>
+     target="_blank"
+     style="background-color: #333333; color: white; padding: 5px 10px; border-radius: 4px; font-size: 14px; text-decoration: none; display: inline-block;">
+    📄 Download CV
   </a>
 </div>
+
 
 <!-- ## Interests  
 - **Artificial Intelligence**  
