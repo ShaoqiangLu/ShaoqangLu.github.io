@@ -35,10 +35,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   <div style="flex: 1; margin-right: 1px;">
     <h2>🎯 Research Interests</h2>
     <ul>
-      <li>Digital IC Design for AI Chips</li>
-      <li>Hardware/Software Co-Optimization</li>
-      <li>AI Compiler Development</li>
-      <li>FPGA-Based Accelerator</li>
+      <em>Digital IC Design for AI Chips</em>
+      <em>Hardware/Software Co-Optimization</em>
+      <em>AI Compiler Development</em>
+      <em>FPGA-Based Accelerator</em>
     </ul>
   </div>
 
