@@ -29,7 +29,9 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </a>
 </div>
 
-  <div style="display: flex; justify-content: space-between; margin-top: 20px;">
+
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 1; margin-right: 1px;">
     <h2>🎯 Research Interests</h2>
     <ul>
@@ -79,8 +81,6 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 -->
 
 # 📝 Publications 
-
-## Conference Paper 👇
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
