@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=67TW5L8AAAAJ&hl=zh-CN"
-  bio              : "📧lushaoqiang@sjtu.edu.cn"
+  email: "<a href='mailto:lushaoqiang@sjtu.edu.cn'>📧 lushaoqiang@sjtu.edu.cn</a>"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
