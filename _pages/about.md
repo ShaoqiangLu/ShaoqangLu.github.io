@@ -11,7 +11,7 @@ redirect_from:
 <style>
   /* 控制锚点停靠时，标题距离页面顶部的距离 */
   .section-title {
-    scroll-margin-top: 120px;  /* 你可以以后改成 80 / 100 / 140 慢慢调 */
+    scroll-margin-top: 80px;  /* 你可以以后改成 80 / 100 / 140 慢慢调 */
   }
 </style>
 
