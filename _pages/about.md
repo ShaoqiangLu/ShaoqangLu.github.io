@@ -36,6 +36,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
       <li>Hardware/Software Co-Optimization</li>
       <li>AI Compiler Development</li>
       <li>FPGA-Based Accelerator</li>
+      <li>AI Models:Llama,Qwen,dLLM,Mamba,VLA,DiT, et al.</li>
     </ul>
   </div>
 
