@@ -29,10 +29,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-
-
-
 <!--<h2 id="homepage" class="section-title">🏠 Homepage</h2>-->
+
 
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2 id="about-me" class="section-title"
@@ -84,10 +82,9 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 
 
-
-<hr style="border: 2px solid #cccccc; margin: 6px 0;">
-<h2 id="awards" class="section-title"
-  style="margin: 4px 0; font-weight: bold;">
+<span id="awards" class="anchor-offset"></span>
+<hr style="border: 2px solid #cccccc; margin: 2px 0;">
+<h2>
   🏆 Awards
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
@@ -104,7 +101,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 
 <span id="publications" class="anchor-offset"></span>
-<hr style="border: 2px solid #cccccc; margin: 4px 0;">
+<hr style="border: 2px solid #cccccc; margin: 2px 0;">
 <h2>
   📝 Publications
 </h2>
@@ -345,10 +342,9 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   -->
 </div>
 
-
-<hr style="border: 2px solid #cccccc; margin: 6px 0;">
-<h2 id="projects" class="section-title"
-  style="margin: 4px 0; font-weight: bold;">
+<span id="projects" class="anchor-offset"></span>
+<hr style="border: 2px solid #cccccc; margin: 2px 0;">
+<h2>
   ⚙️ Projects
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
