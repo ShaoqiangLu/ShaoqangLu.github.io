@@ -15,12 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<hr style="border: 1px solid #000000; margin: 4px 0;">
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2 id="about-me" style="margin: 4px 0; font-weight: bold;">
   😄 About Me
 </h2>
-<hr style="border: 1px solid #000000; margin: 4px 0;">
-
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
 I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the [Eastern Institute of Technology (EIT), Ningbo](https://www.eitech.edu.cn/). Prior to that, I obtained my M.S. degree from [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
 
 <div style="margin-top: 10px;">
@@ -62,9 +61,11 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </div>
 </div>
 
-<hr style="border: 1px solid #000000; margin: 4px 0;">
-# 🏆 Awards {#awards}
-<hr style="border: 1px solid #000000; margin: 4px 0;">
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
+<h2 id="awards" style="margin: 4px 0; font-weight: bold;">
+  🏆 Awards
+</h2>
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
 - *2025.11*: &nbsp;🏅 1st Prize, the [Build Your Dreams (BYD) Scholarship](https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html), Shanghai Jiao Tong University — Rank 3/160, RMB 20,000 
 - *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special First Prize [GalaxyCore Technology Co., Ltd](https://www.gcoreinc.com)
 - *2021.7*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)— Northwest Region
@@ -72,10 +73,11 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - *2020.10*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University
 - *2019.7*: &nbsp;🎖️ [Excellent Graduate Student Cadre Honor](https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q) (thrice) and Outstanding Student Class Monitor (twice), Xidian University
 
--
-
-# 📝 Publications {#publications}
-
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
+<h2 id="publications" style="margin: 4px 0; font-weight: bold;">
+  📝 Publications
+</h2>
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
 - [1] <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-A </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASPLOS 2026</span> DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Yangbo Wei<sup style="color: black;">*</sup>, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He.
 
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
@@ -312,10 +314,12 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   -->
 </div>
 
-<hr style="border: 1px solid #000000; margin: 4px 0;">
-# ⚙️ Projects {#projects}
-<hr style="border: 1px solid #000000; margin: 4px 0;">
 
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
+<h2 id="projects" style="margin: 4px 0; font-weight: bold;">
+  ⚙️ Projects
+</h2>
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
 ## Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
 
 **Description**  
