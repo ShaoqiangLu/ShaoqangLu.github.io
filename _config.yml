@@ -27,8 +27,8 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=67TW5L8AAAAJ&hl=zh-CN"
-  email: "<a href='mailto:lushaoqiang@sjtu.edu.cn'>📧 lushaoqiang@sjtu.edu.cn</a>"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=Vts8xKkAAAAJ&hl=zh-CN&oi=sra"
+  email            : "lushaoqiang@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://shaoqianglu.github.io" # e.g., "github username"
+  github           : "https://github.com/ShaoqiangLu" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yanfang-liu-833716308/"
+  # linkedin         : "yanfang-liu-833716308/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0001-6499-3705"
+  orcid            : "https://orcid.org/0009-0002-8624-8666"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
