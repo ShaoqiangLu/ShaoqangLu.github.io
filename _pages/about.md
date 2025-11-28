@@ -15,9 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<hr style="border: 3px solid #000000; margin: 20px 0;">
+<hr style="border: 1px solid #000000; margin: 4px 0;">
 # 😄 About Me {#about-me}
-<hr style="border: 3px solid #000000; margin: 20px 0;">
+<hr style="border: 1px solid #000000; margin: 4px 0;">
 I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the [Eastern Institute of Technology (EIT), Ningbo](https://www.eitech.edu.cn/). Prior to that, I obtained my M.S. degree from [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
 
 <div style="margin-top: 10px;">
@@ -59,9 +59,9 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </div>
 </div>
 
-<hr style="border: 3px solid #000000; margin: 20px 0;">
+<hr style="border: 1px solid #000000; margin: 4px 0;">
 # 🏆 Awards {#awards}
-<hr style="border: 3px solid #000000; margin: 20px 0;">
+<hr style="border: 1px solid #000000; margin: 4px 0;">
 - *2025.11*: &nbsp;🏅 1st Prize, the [Build Your Dreams (BYD) Scholarship](https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html), Shanghai Jiao Tong University — Rank 3/160, RMB 20,000 
 - *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special First Prize [GalaxyCore Technology Co., Ltd](https://www.gcoreinc.com)
 - *2021.7*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)— Northwest Region
@@ -309,9 +309,9 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   -->
 </div>
 
-<hr style="border: 3px solid #000000; margin: 20px 0;">
+<hr style="border: 1px solid #000000; margin: 4px 0;">
 # ⚙️ Projects {#projects}
-<hr style="border: 3px solid #000000; margin: 20px 0;">
+<hr style="border: 1px solid #000000; margin: 4px 0;">
 
 ## Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
 
