@@ -358,7 +358,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 ![Mcore](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/de8b4fd16601343d67a56b56c8d787636949b653/fig/McoreOPU.png)
 
 <h2>Demo</h2>
-<video controls width="900">
+<video controls width="950">
   <source src="https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -401,7 +401,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 ![ARMSoC](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/main/fig/ARMSoC.png)  
 
 <h2>Demo</h2>
-<video controls width="900">
+<video controls width="950">
   <source src="https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872" type="video/mp4">
   Your browser does not support the video tag.
 </video>
