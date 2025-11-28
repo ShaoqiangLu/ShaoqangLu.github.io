@@ -305,4 +305,138 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   -->
 </div>
 
+# ⚙️ Projects
+
+---
+
+## Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
+
+**Description**  
+- Designed an FPGA-based Overlay Processor Unit (OPU) to accelerate inference of diverse AI deep learning models. Optimized data flow and operator execution through hardware–software co-design. Successfully deployed in real-time edge scenarios.
+
+**Responsibilities**  
+- Designed the OPU including the instruction set, compiler, and hardware microarchitecture.  
+- Built a scalable computing engine for parallel execution of key operations (e.g., convolution, matrix multiplication).  
+- Developed specialized functional units for nonlinear operations.  
+- Implemented a real-time hardware–software runtime, covering CPU-side model compilation to FPGA inference.  
+- Enabled PCIe-based transfer of weights and control instructions.  
+- Designed for scalability across various sizes and types of neural networks.  
+
+
+**Experimental Setup**
+
+- Xilinx Alveo U200 @ 300 MHz (PE 600 MHz)  
+- Implementation 4-Core OPU + 64 GB DDR4
+- Quantization Models run INT8 bitsandbytes.
+
+**Evaluation**
+
+- Resources Usage (left)   vs.   Model Results (right) <sub>\* We report the first token latency.</sub>
+
+| Resource | **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| **Used** | 947684 | 1806396 | 1004 | 4364 |  | **Latency\*** (ms) | 3.41 | 6.96 | 59.49 | 149.57 |
+| **Util(%)** | 80.1% | 76.3% | 46.5% | 63.8% |  | **Throughput** (TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
+
+**Tools**  
+- Vivado · FPGA (U200) · Verilog · ModelSim · PCIe · DDR · XDMA · C++ · Python · PyTorch
+
+![Architecture](fig/McoreOPU.png)   
+
+## Demo
+https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
+
+---
+
+## Project 2：A Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
+
+**Description**  
+- Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection. Deploy a decision-tree–based PICO (Pixel-Intensity Comparison-based Object Detection) model. 
+
+**Responsibilities**  
+- Built a complete image acquisition, storage, and display pipeline with Bus peripheral access in software.  
+- Implemented the face detection algorithm on Cortex-M3 for standalone execution.  
+- Designed and integrated a dedicated hardware accelerator to boost detection performance.  
+- Ran on a 100 MHz AX7103 FPGA with OV5640 (3-million-pixel) for image capture.
+- Data is stored in DDR3, HDMI for real-time display, and UART for status communication.  
+
+
+**Experimental Setup & Results**
+
+- Camera: OV5640, RGB565, 5 MP ; Display: HBMI, RGB888, 640×480 @ 60 Hz ; Memory: DDR3 ×2 (8 Gb each).  
+
+| Resource | Used  | Utilization |  | SMIC55 | Report |  | Platform | Implement | Latency |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| LUT | 36583| 57.70% |  | ASIC Area        | 61801 μm²            |  | CPU       | OpenCV | 33 ms    |
+| FF  | 36130| 28.50% |  | PT Power         | 361.5 μW             |  | FPGA      | RTL    | 42 ms    |
+| BRAM| 101  | 75.00% |  | NAND2 area       | 1.12 μm²/gate        |  | Cortex-M3 | C      | 2,700 ms |
+| DSP | 27   | 11.00% |  | Gates/MOScount   | 55180/ ≈220k         |  | Speedup   |Cortex/FPGA| ≈ 60x    |
+
+
+
+**Evaluation**  
+- Achieved **41 ms/face** processing time with hardware acceleration, compared to **2700 ms/face** on pure Cortex-M3.  
+- Delivered a **65.81×** performance speedup over the baseline software-only implementation.  
+
+**Tools & Technologies**  
+- C (embedded Cortex-M3) · AHB/APB/AXI · Keil MDK · AX7103 · OV5640 · HDMI
+ 
+
+![Layout](fig/ARMSoC.png)  
+
+## Demo
+https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
+
+---
+
+## Project 3：Digital IC Frontend Design and Implementation of a PE Array  
+
+**Description**  
+- Designed a Processing Element (PE) array to accelerate irregular sparse AI workloads. Implemented the digital IC frontend design flow and compared resource utilization between ASIC and FPGA implementations.
+
+**Responsibilities**  
+- Designed sparse computing architecture for the PE array, including triangular-fed data flow, PE unit logic, and weight bitmask decoding.  
+- Verified functionality via simulation before setting timing constraints.  
+- Completed both FPGA and ASIC flows, eliminating timing violations through iterative analysis.  
+- Integrated the PE array into a complete accelerator system.  
+- Analyzed synthesis and power reports to guide RTL refinement for improved performance.  
+
+**Evaluation**  
+- Logic synthesis using Synopsys Design Compiler (DC) at TSMC 28nm process node.  
+- Power analysis via PrimeTime (PT), achieving:  
+  - **1 GHz** operating frequency  
+  - **1.06 mm²** core area  
+  - **1.32 W** power consumption  
+- Balanced performance, area, and power through RTL optimizations.  
+
+**Tools & Technologies**  
+- Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
+
+![Layout](fig/PEarray.png)  
+
+---
+
+## Project 4：Expert-Aware Quantization and Sparsity for MoE- based Models  
+
+**Description**  
+- Designed and implemented expert-aware quantization and sparsity optimization techniques for Mixture-of-Experts (MoE) models to reduce memory footprint.
+
+**Responsibilities**  
+- Introduced N:M sparsity patterns (1:4 / 2:4 / 4:8 / 6:8 / 8:8) in MLP layers.  
+- Applied mixed-precision quantization (BF16 / FP8 / INT4) guided by expert activation frequency, covering both expert and shared layers.  
+- Integrated sparsity and quantization pipelines into the training workflow of the DeepSeek-V2-Lite model on the GSM8K dataset.  
+
+**Evaluation**  
+- Reduced parameter size by up to **2.76×** while maintaining accuracy.  
+- Only **1.53%** average accuracy drop after fine-tuning.  
+- Achieved **2–3×** speedup and **40–60%** memory savings.  
+
+**Tools & Technologies**  
+- PyTorch · DeepSeek-V2-Lite · GSM8K dataset · CUDA · NVIDIA A100 · NVIDIA RTX 4090 · Python
+
+![Layout](fig/MoE.png)  
+
+---
+
+
 
