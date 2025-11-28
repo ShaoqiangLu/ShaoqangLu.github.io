@@ -82,6 +82,9 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </div>
 </div>
 
+
+
+
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2 id="awards" class="section-title"
   style="margin: 4px 0; font-weight: bold;">
@@ -98,8 +101,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 
 
+
+
 <span id="publications" class="anchor-offset"></span>
-<hr style="border: 2px solid #cccccc; margin: 6px 0;">
+<hr style="border: 2px solid #cccccc; margin: 4px 0;">
 <h2>
   📝 Publications
 </h2>
