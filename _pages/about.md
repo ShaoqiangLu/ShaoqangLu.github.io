@@ -64,7 +64,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special First Prize GalaxyCore Technology Co., Ltd
 - *2021.7*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)
 - *2022.10*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University
-- *2022.7*: &nbsp;🎖️ [Excellent Graduate Student Cadre honor]((https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q)) (thrice) and Outstanding Student Class Monitor (twice), Xidian University
+- *2022.7*: &nbsp;🎖️ [Excellent Graduate Student Cadre honor](https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q) (thrice) and Outstanding Student Class Monitor (twice), Xidian University
 
 # 📝 Publications 
 
