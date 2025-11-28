@@ -98,9 +98,8 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 
 
-
-<hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <span id="publications" class="anchor-offset"></span>
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2>
   📝 Publications
 </h2>
