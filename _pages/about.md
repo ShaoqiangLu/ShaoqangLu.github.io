@@ -58,16 +58,13 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </div>
 </div>
 
-# 🎖 Awards
-- *2024.12*: &nbsp;✨ I am featured on the official WeChat account and website of Beihang University. \| [\[link\]](https://mp.weixin.qq.com/s/4kUMKpGHEHNJaZBFygPZHg?poc_token=HGIgYGejn2QyL_yhaQsKoPnvQ8MGGd5rElbb86UB)
-- *2024.11*: &nbsp;🎉 One paper has been accepted by DATE 2025!
-- *2024.09*: &nbsp;🎯 I will pursue a PhD in Computer Science and Engineering (CSE) at CUHK in August next year!
-- *2024.06*: &nbsp;🎉 One paper has been accepted by ICCAD 2024!
-- *2024.02*: &nbsp;🎉 One paper has been accepted by DAC 2024!
-- *2023.09*: &nbsp;🎉 One paper has been accepted by ASP-DAC 2024!
-- *2023.07*: &nbsp;🎉 One paper has been accepted by ICCAD 2023!
-- *2023.02*: &nbsp;🎉 One paper has been accepted by DAC 2023!
-
+# 🏆 Awards
+- *2025.11*: &nbsp;🏅 1st Prize, the [Build Your Dreams (BYD) Scholarship](https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html), Shanghai Jiao Tong University — Rank 3/160, RMB 20,000 
+- *2020.10*: &nbsp;🥈 2nd Prize, the [3rd "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/AwZsIw1SNVQMaqknOuSJHg?click_id=2), Special First Prize S2C Technology Co., Ltd
+- *2021.10*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special First Prize GalaxyCore Technology Co., Ltd
+- *2021.10*: &nbsp;🏅 3rd Prize, the 5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition (2021)
+- *2022.10*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), [Academic Scholarship for Master’s Degree] Candidates(https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q), Xidian University
+- *2021.10*: &nbsp;🎖️ Excellent Graduate Student Cadre honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University
 
 # 📝 Publications 
 
