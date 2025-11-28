@@ -69,7 +69,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 # 📝 Publications 
 
-- [1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASPLOS 2026</span> DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU. **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He.
+- [1] <span style="background-color: #ffc0cb; color: #000000; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-A </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASPLOS 2026</span> DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU. **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He.
 
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   
@@ -116,10 +116,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 - [3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2025</span> MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models. **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+  <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
+    <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
+      PDF
+    </button>
   </a>
   <!--
   <a href="_pages/paper/ASP-DAC2024.bib" style="text-decoration: none;">
@@ -197,10 +197,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 - [7] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2026</span> dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models. Yangbo Wei, **<u>Shaoqiang Lu</u>**, Junhong Qian, Chen Wu, Xiao Shi, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+  <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
+    <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
+      PDF
+    </button>
   </a>
   <!--
   <a href="_pages/paper/DAC2023.bib" style="text-decoration: none;">
@@ -219,10 +219,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 - [8] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">AAAI 2026</span> Mixture-of-Trees: Learning to Select and Weigh Reasoning Paths for Efficient LLM Inference. Yangbo Wei, Zhen huang, **<u>Shaoqiang Lu</u>**, Junhong Qian, Dongge Qin, Ting Jung Lin, WEI W. XING, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+  <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
+    <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
+      PDF
+    </button>
   </a>
   <!--
   <a href="_pages/paper/DAC2023.bib" style="text-decoration: none;">
