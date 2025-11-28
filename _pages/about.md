@@ -15,31 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<style>
-  /* 点击锚点时平滑滚动（可选，但体验更好） */
-  html {
-    scroll-behavior: smooth;
-  }
-
-  /* 给所有 section 标题预留上方空间，防止被顶部遮住 */
-  .section-title {
-    scroll-margin-top: 80px;
-  }
-</style>
-
-<!-- 顶部导航：就是你看到的 Homepage / About Me / Awards / Publications / Projects -->
-<p style="text-align: center;">
-  <a href="#homepage">Homepage</a> &nbsp;|&nbsp;
-  <a href="#about-me">About Me</a> &nbsp;|&nbsp;
-  <a href="#awards">Awards</a> &nbsp;|&nbsp;
-  <a href="#publications">Publications</a> &nbsp;|&nbsp;
-  <a href="#projects">Projects</a>
-</p>
-
-<hr style="border: 2px solid #cccccc; margin: 6px 0;">
-
-<h2 id="homepage" class="section-title">🏠 Homepage</h2>
-
+<!--<h2 id="homepage" class="section-title">🏠 Homepage</h2>-->
 
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2 id="about-me" class="section-title"
@@ -47,6 +23,7 @@ redirect_from:
   😄 About Me
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
+
 I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the [Eastern Institute of Technology (EIT), Ningbo](https://www.eitech.edu.cn/). Prior to that, I obtained my M.S. degree from [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
 
 <div style="margin-top: 10px;">
