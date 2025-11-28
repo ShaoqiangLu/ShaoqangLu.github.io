@@ -13,7 +13,7 @@ redirect_from:
   .anchor-offset {
     display: block;
     position: relative;
-    top: -40px;   /* 想要空隙大一点就改成 -100、-120 */
+    top: -50px;   /* 想要空隙大一点就改成 -100、-120 */
     visibility: hidden;
   }
 </style>
@@ -83,7 +83,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 
 <span id="awards" class="anchor-offset"></span>
-<hr style="border: 2px solid #cccccc; margin: 2px 0;">
+<hr style="border: 2px solid #cccccc; margin: 4px 0;">
 <h2>
   🏆 Awards
 </h2>
@@ -101,7 +101,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 
 <span id="publications" class="anchor-offset"></span>
-<hr style="border: 2px solid #cccccc; margin: 2px 0;">
+<hr style="border: 2px solid #cccccc; margin: 4px 0;">
 <h2>
   📝 Publications
 </h2>
@@ -343,7 +343,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 </div>
 
 <span id="projects" class="anchor-offset"></span>
-<hr style="border: 2px solid #cccccc; margin: 2px 0;">
+<hr style="border: 2px solid #cccccc; margin: 4px 0;">
 <h2>
   ⚙️ Projects
 </h2>
