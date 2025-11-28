@@ -64,7 +64,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - *2021.7*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)— Northwest Region
 - *2020.10*: &nbsp;🥈 2nd Prize, the [3rd "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/AwZsIw1SNVQMaqknOuSJHg?click_id=2), Special First Prize [S2C Technology Co., Ltd](https://www.s2ceda.com/ch) 
 - *2020.10*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University
-- *2019.7*: &nbsp;🎖️ [Excellent Graduate Student Cadre honor](https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q) (thrice) and Outstanding Student Class Monitor (twice), Xidian University
+- *2019.7*: &nbsp;🎖️ [Excellent Graduate Student Cadre Honor](https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q) (thrice) and Outstanding Student Class Monitor (twice), Xidian University
 
 # 📝 Publications 
 
@@ -80,7 +80,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 </div>
 </div> -->
 
-- [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DATE 2025</span> [FUSIS: Fusing Surrogate Models and Importance Sampling for Efficient Yield Estimation](https://ieeexplore.ieee.org/abstract/document/10993100), **<u>Yanfang Liu</u>**, Wei W. Xing. 2025 Design, Automation & Test in Europe Conference (DATE), Lyon, France, 2025.
+- [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASPLOS 2026</span> [DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU], **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He., 
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
