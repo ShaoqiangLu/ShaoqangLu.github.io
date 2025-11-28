@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About Me"
-    url: "/about/#about-me"
+    url: "/#about-me"
 
   - title: "Awards"
-    url: "/about/#awards"
+    url: "/#awards"
 
   - title: "Publications"
-    url: "/about/#publications"
+    url: "/#publications"
 
   - title: "Projects"
-    url: "/about/#projects"
+    url: "/#projects"
