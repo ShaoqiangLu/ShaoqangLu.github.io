@@ -59,6 +59,8 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </div>
 </div>
 
+---
+
 # 🏆 Awards
 - *2025.11*: &nbsp;🏅 1st Prize, the [Build Your Dreams (BYD) Scholarship](https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html), Shanghai Jiao Tong University — Rank 3/160, RMB 20,000 
 - *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special First Prize [GalaxyCore Technology Co., Ltd](https://www.gcoreinc.com)
@@ -66,6 +68,8 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - *2020.10*: &nbsp;🥈 2nd Prize, the [3rd "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/AwZsIw1SNVQMaqknOuSJHg?click_id=2), Special First Prize [S2C Technology Co., Ltd](https://www.s2ceda.com/ch) 
 - *2020.10*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University
 - *2019.7*: &nbsp;🎖️ [Excellent Graduate Student Cadre Honor](https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q) (thrice) and Outstanding Student Class Monitor (twice), Xidian University
+
+---
 
 # 📝 Publications 
 
@@ -305,9 +309,9 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   -->
 </div>
 
-# ⚙️ Projects
-
 ---
+
+# ⚙️ Projects
 
 ## Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
 
