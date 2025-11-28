@@ -15,8 +15,34 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+  /* 点击锚点时平滑滚动（可选，但体验更好） */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* 给所有 section 标题预留上方空间，防止被顶部遮住 */
+  .section-title {
+    scroll-margin-top: 80px;
+  }
+</style>
+
+<!-- 顶部导航：就是你看到的 Homepage / About Me / Awards / Publications / Projects -->
+<p style="text-align: center;">
+  <a href="#homepage">Homepage</a> &nbsp;|&nbsp;
+  <a href="#about-me">About Me</a> &nbsp;|&nbsp;
+  <a href="#awards">Awards</a> &nbsp;|&nbsp;
+  <a href="#publications">Publications</a> &nbsp;|&nbsp;
+  <a href="#projects">Projects</a>
+</p>
+
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
-<h2 id="about-me"
+
+<h2 id="homepage" class="section-title">🏠 Homepage</h2>
+
+
+<hr style="border: 2px solid #cccccc; margin: 6px 0;">
+<h2 id="about-me" class="section-title"
     style="margin: 4px 0; font-weight: bold; scroll-margin-top: 80px;">
   😄 About Me
 </h2>
@@ -63,7 +89,8 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 </div>
 
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
-<h2 id="awards" style="margin: 4px 0; font-weight: bold;">
+<h2 id="awards" class="section-title"
+  style="margin: 4px 0; font-weight: bold;">
   🏆 Awards
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
@@ -75,7 +102,8 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - *2019.7*: &nbsp;🎖️ Excellent Graduate Student Cadre Honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University
 <!--https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q-->
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
-<h2 id="publications" style="margin: 4px 0; font-weight: bold;">
+<h2 id="publications" class="section-title"
+  style="margin: 4px 0; font-weight: bold;">
   📝 Publications
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
@@ -317,7 +345,8 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
-<h2 id="projects" style="margin: 4px 0; font-weight: bold;">
+<h2 id="projects" class="section-title"
+  style="margin: 4px 0; font-weight: bold;">
   ⚙️ Projects
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
