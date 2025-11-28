@@ -321,7 +321,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   ⚙️ Projects
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
+
+<hr style="border: 1px solid #cccccc; margin: 4px 0;">
 ## Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
+<hr style="border: 1px solid #cccccc; margin: 4px 0;">
 
 **Description**  
 - Designed an FPGA-based Overlay Processor Unit (OPU) to accelerate inference of diverse AI deep learning models. Optimized data flow and operator execution through hardware–software co-design. Successfully deployed in real-time edge scenarios.
@@ -355,12 +358,15 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 ![Mcore](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/de8b4fd16601343d67a56b56c8d787636949b653/fig/McoreOPU.png)
 
-## Demo
-https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
+<h2>Demo</h2>
+<video controls width="640">
+  <source src="https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
----
-
+<hr style="border: 1px solid #cccccc; margin: 4px 0;">
 ## Project 2：A Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
+<hr style="border: 1px solid #cccccc; margin: 4px 0;">
 
 **Description**  
 - Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection. Deploy a decision-tree–based PICO (Pixel-Intensity Comparison-based Object Detection) model. 
@@ -398,9 +404,9 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 ## Demo
 https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
 
--
-
+<hr style="border: 1px solid #cccccc; margin: 4px 0;">
 ## Project 3：Digital IC Frontend Design and Implementation of a PE Array  
+<hr style="border: 1px solid #cccccc; margin: 4px 0;">
 
 **Description**  
 - Designed a Processing Element (PE) array to accelerate irregular sparse AI workloads. Implemented the digital IC frontend design flow and compared resource utilization between ASIC and FPGA implementations.
@@ -425,9 +431,9 @@ https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
 
 ![PEarray](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/de8b4fd16601343d67a56b56c8d787636949b653/fig/PEarray.png)  
 
--
-
+<hr style="border: 1px solid #cccccc; margin: 4px 0;">
 ## Project 4：Expert-Aware Quantization and Sparsity for MoE- based Models  
+<hr style="border: 1px solid #cccccc; margin: 4px 0;">
 
 **Description**  
 - Designed and implemented expert-aware quantization and sparsity optimization techniques for Mixture-of-Experts (MoE) models to reduce memory footprint.
