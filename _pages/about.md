@@ -13,7 +13,7 @@ redirect_from:
   .anchor-offset {
     display: block;
     position: relative;
-    top: -120px;   /* 想要空隙大一点就改成 -100、-120 */
+    top: -220px;   /* 想要空隙大一点就改成 -100、-120 */
     visibility: hidden;
   }
 </style>
