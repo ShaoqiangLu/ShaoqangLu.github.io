@@ -36,7 +36,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
       <li>Hardware/Software Co-Optimization</li>
       <li>AI Compiler Development</li>
       <li>FPGA-Based Accelerator</li>
-      <li>AI Models:Llama,dLLM,Mamba,VLA.</li>
+      <li>AI Models:Llama,dLLM,Mamba,VLA</li>
     </ul>
   </div>
 
@@ -73,10 +73,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   
-  <a href="" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
+  <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
+    <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
+      PDF
+    </button>
   </a>
   <!--
   <a href="_pages/paper/DATE2025.bib" style="text-decoration: none;">
@@ -261,7 +261,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 </div>
 
 
-- [10] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FCCM 2025</span> C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers, Siyuan Miao, Lingkang Zhu, Chen Wu, **<u>Shaoqiang Lu</u>**, Jinming Lyu, Lei He.
+- [10] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FCCM 2025</span> C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers. Siyuan Miao, Lingkang Zhu, Chen Wu, **<u>Shaoqiang Lu</u>**, Jinming Lyu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://ieeexplore.ieee.org/document/11008948" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
