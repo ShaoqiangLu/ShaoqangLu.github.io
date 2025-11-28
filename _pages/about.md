@@ -32,7 +32,7 @@ redirect_from:
 <!--<h2 id="homepage" class="section-title">🏠 Homepage</h2>-->
 
 
-<hr style="border: 2px solid #cccccc; margin: 8px 0;">
+<hr style="border: 2px solid #cccccc; margin: 12px 0;">
 <h2 id="about-me" class="section-title"
     style="margin: 4px 0; font-weight: bold;">
   😄 About Me
