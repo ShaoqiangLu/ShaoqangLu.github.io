@@ -16,7 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
-<h2 id="about-me" style="margin: 4px 0; font-weight: bold;">
+<h2 id="about-me"
+    style="margin: 4px 0; font-weight: bold; scroll-margin-top: 80px;">
   😄 About Me
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
@@ -67,7 +68,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 - *2025.11*: &nbsp;🏅 1st Prize, the [Build Your Dreams (BYD) Scholarship](https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html), Shanghai Jiao Tong University — Rank 3/160, RMB 20,000 
-- *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special First Prize [GalaxyCore Technology Co., Ltd](https://www.gcoreinc.com)
+- *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special Second Prize [GalaxyCore Technology Co., Ltd](https://www.gcoreinc.com)
 - *2021.7*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)— Northwest Region
 - *2020.10*: &nbsp;🥈 2nd Prize, the [3rd "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/AwZsIw1SNVQMaqknOuSJHg?click_id=2), Special First Prize [S2C Technology Co., Ltd](https://www.s2ceda.com/ch) 
 - *2020.10*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University
