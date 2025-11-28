@@ -80,23 +80,15 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 </div>
 </div> -->
 
-- [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASPLOS 2026</span> [DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU], **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He., 
+- [C6] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASPLOS 2026</span> [DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU], **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He.
+<!--
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/DATE2025.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
-  <!-- <a href="your-citation-link.bib" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
-  </a> -->
-  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">DOI</button>
-  </a> -->
+
   <a href="_pages/paper/DATE2025.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
@@ -108,17 +100,14 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
   </a>
 </div>
+-->
 
-<!-- <div style="margin-top: 10px;">
-  <a href="https://example.com/article.pdf" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer;">PDF</button>
-  </a>
-  <a href="https://example.com/article.bib" style="text-decoration: none;">
-    <button style="background-color:rgb(255, 155, 6); color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer;">Cite</button>
-  </a>
-</div> -->
 
-- [C5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> [Beyond the Yield Barrier: Variational Importance Sampling Yield Analysis](https://dl.acm.org/doi/abs/10.1145/3676536.3676672), **<u>Yanfang Liu</u>**, Lei He, Wei W. Xing. 2024 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), New York, NY, USA.
+
+
+
+- [C5] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2025</span> [MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models], **<u>Shaoqiang Lu</u>**, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.
+<!--
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="_pages/paper/ICCAD2024.pdf" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -130,12 +119,13 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
   </a>
-  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
-  </a> -->
+
 </div>
+-->
+
+
+
+
 
 - [C4] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2024</span> [CIS: Conditional Importance Sampling for Yield Optimization of Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10473819), **<u>Yanfang Liu</u>**, Wei W. Xing. 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC), Incheon, Korea, Republic of, 2024.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
@@ -149,11 +139,6 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Cite</button>
   </a>
-  <!-- <a href="https://doi.org/your-doi-link" style="text-decoration: none;">
-    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
-      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
-      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">Video</button>
-  </a> -->
 </div>
 
 - [C3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2023</span> <span style="color:red;">(Best Paper Nomination)</span> [OPT: Optimal Proposal Transfer for Efficient Yield Optimization for Analog and SRAM Circuits](https://ieeexplore.ieee.org/abstract/document/10323689), **<u>Yanfang Liu</u>**, Guohao Dai, Yuanqing Cheng, Wang Kang, Wei W. Xing. 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), San Francisco, CA, USA, 2023.
