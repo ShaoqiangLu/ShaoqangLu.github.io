@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  /* 控制锚点停靠时，标题距离页面顶部的距离 */
+  .section-title {
+    scroll-margin-top: 120px;  /* 你可以以后改成 80 / 100 / 140 慢慢调 */
+  }
+</style>
+
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -24,7 +32,7 @@ redirect_from:
 
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2 id="about-me" class="section-title"
-    style="margin: 4px 0; font-weight: bold; scroll-margin-top: 80px;">
+    style="margin: 4px 0; font-weight: bold;">
   😄 About Me
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
@@ -72,7 +80,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2 id="awards" class="section-title"
-  style="margin: 4px 0; font-weight: bold; scroll-margin-top: 80px;">
+  style="margin: 4px 0; font-weight: bold;">
   🏆 Awards
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
@@ -85,7 +93,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 <!--https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q-->
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2 id="publications" class="section-title"
-  style="margin: 4px 0; font-weight: bold; scroll-margin-top: 80px;">
+  style="margin: 4px 0; font-weight: bold;">
   📝 Publications
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
@@ -328,7 +336,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 <h2 id="projects" class="section-title"
-  style="margin: 4px 0; font-weight: bold; scroll-margin-top: 80px;">
+  style="margin: 4px 0; font-weight: bold;">
   ⚙️ Projects
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
