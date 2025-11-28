@@ -9,11 +9,15 @@ redirect_from:
 ---
 
 <style>
-  /* 控制锚点停靠时，标题距离页面顶部的距离 */
-  .section-title {
-    scroll-margin-top: 80px;  /* 你可以以后改成 80 / 100 / 140 慢慢调 */
+  /* 用来把锚点往上提一点，让实际标题离顶部有空隙 */
+  .anchor-offset {
+    display: block;
+    position: relative;
+    top: -80px;   /* 想要空隙大一点就改成 -100、-120 */
+    visibility: hidden;
   }
 </style>
+
 
 
 
@@ -91,9 +95,13 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - *2020.10*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University — Rank 4/188, <!--¥8000 RMB https://sme.xidian.edu.cn/html/tzgg/jx/2021/1125/1673.html-->
 - *2019.7*: &nbsp;🎖️ Excellent Graduate Student Cadre Honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University
 <!--https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q-->
+
+
+
+
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
-<h2 id="publications" class="section-title"
-  style="margin: 4px 0; font-weight: bold;">
+<span id="publications" class="anchor-offset"></span>
+<h2>
   📝 Publications
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
