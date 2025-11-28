@@ -16,8 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <hr style="border: 1px solid #000000; margin: 4px 0;">
-# 😄 About Me {#about-me}
+<h2 id="about-me" style="margin: 4px 0; font-weight: bold;">
+  😄 About Me
+</h2>
 <hr style="border: 1px solid #000000; margin: 4px 0;">
+
 I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the [Eastern Institute of Technology (EIT), Ningbo](https://www.eitech.edu.cn/). Prior to that, I obtained my M.S. degree from [Xidian University](https://www.xidian.edu.cn/), supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
 
 <div style="margin-top: 10px;">
