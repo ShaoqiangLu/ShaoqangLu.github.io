@@ -161,7 +161,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   -->
 </div>
 
-- [5]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity. Tiandong Zhao<sup style="color: black;">*</sup>, **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Chen Wu, Lei He.
+- [5]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity. Tiandong Zhao, **<u>Shaoqiang Lu</u>**, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://dl.acm.org/doi/10.1145/3676536.3676761" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -183,7 +183,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 </div>
 
 
-- [6]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASAP 2025</span> <span style="color:red;">(Best Paper Nomination)</span>METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA. Zicheng He<sup style="color: black;">*</sup>, **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Tiandong Zhao, Chen Wu, Lei He.
+- [6]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASAP 2025</span> <span style="color:red;">(Best Paper Nomination)</span>METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA. Zicheng He, **<u>Shaoqiang Lu</u>**, Tiandong Zhao, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://ieeexplore.ieee.org/document/11113558" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -358,7 +358,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 ![Mcore](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/de8b4fd16601343d67a56b56c8d787636949b653/fig/McoreOPU.png)
 
 <h2>Demo</h2>
-<video controls width="1024">
+<video controls width="900">
   <source src="https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -401,7 +401,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 ![ARMSoC](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/main/fig/ARMSoC.png)  
 
 <h2>Demo</h2>
-<video controls width="1024">
+<video controls width="900">
   <source src="https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872" type="video/mp4">
   Your browser does not support the video tag.
 </video>
