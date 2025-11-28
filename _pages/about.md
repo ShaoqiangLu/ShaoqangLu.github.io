@@ -103,7 +103,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 <span id="publications" class="anchor-offset"></span>
 <hr style="border: 2px solid #cccccc; margin: 4px 0;">
 <h2>
-  📝 Publications
+  📚 Publications
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 - [1] <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-A </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASPLOS 2026</span> DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Yangbo Wei<sup style="color: black;">*</sup>, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He.
@@ -345,7 +345,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 <span id="projects" class="anchor-offset"></span>
 <hr style="border: 2px solid #cccccc; margin: 4px 0;">
 <h2>
-  ⚙️ Projects
+  🧰 Projects
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 
