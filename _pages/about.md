@@ -343,7 +343,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 | **Util(%)** | 80.1% | 76.3% | 46.5% | 63.8% |  | **Throughput** (TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
 
 **Tools**  
-- Vivado · FPGA (U200) · Verilog · ModelSim · PCIe · DDR · XDMA · C++ · Python · PyTorch
+- Vivado , FPGA (U200) , Verilog , ModelSim , PCIe , DDR , XDMA , C++ , Python , PyTorch
 
 ![Mcore](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/de8b4fd16601343d67a56b56c8d787636949b653/fig/McoreOPU.png)
 
@@ -383,7 +383,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 - Delivered a **65.81×** performance speedup over the baseline software-only implementation.  
 
 **Tools & Technologies**  
-- C (embedded Cortex-M3) · AHB/APB/AXI · Keil MDK · AX7103 · OV5640 · HDMI
+- C (embedded Cortex-M3) , AHB/APB/AXI , Keil MDK , AX7103 , OV5640 , HDMI
  
 ![ARMSoC](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/main/fig/ARMSoC.png)  
 
@@ -413,7 +413,7 @@ https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
 - Balanced performance, area, and power through RTL optimizations.  
 
 **Tools & Technologies**  
-- Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
+- Verilog , Synopsys Design Compiler (DC) , PrimeTime (PT) , VCS , TSMC 28nm , SDC , Shell , Tcl
 
 ![PEarray](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/de8b4fd16601343d67a56b56c8d787636949b653/fig/PEarray.png)  
 
@@ -435,7 +435,7 @@ https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
 - Achieved **2–3×** speedup and **40–60%** memory savings.  
 
 **Tools & Technologies**  
-- PyTorch · DeepSeek-V2-Lite · GSM8K dataset · CUDA · NVIDIA A100 · NVIDIA RTX 4090 · Python
+- PyTorch , DeepSeek-V2-Lite , GSM8K dataset , CUDA , NVIDIA A100 , NVIDIA RTX 4090 , Python
  
 ![MoE](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/de8b4fd16601343d67a56b56c8d787636949b653/fig/MoE.png)  
 
