@@ -59,7 +59,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   </div>
 </div>
 
----
+-
 
 # 🏆 Awards
 - *2025.11*: &nbsp;🏅 1st Prize, the [Build Your Dreams (BYD) Scholarship](https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html), Shanghai Jiao Tong University — Rank 3/160, RMB 20,000 
@@ -69,7 +69,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
 - *2020.10*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University
 - *2019.7*: &nbsp;🎖️ [Excellent Graduate Student Cadre Honor](https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q) (thrice) and Outstanding Student Class Monitor (twice), Xidian University
 
----
+-
 
 # 📝 Publications 
 
@@ -309,7 +309,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, [Shanghai Ji
   -->
 </div>
 
----
+-
 
 # ⚙️ Projects
 
@@ -391,7 +391,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 ## Demo
 https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
 
----
+-
 
 ## Project 3：Digital IC Frontend Design and Implementation of a PE Array  
 
@@ -418,7 +418,7 @@ https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
 
 ![Layout](fig/PEarray.png)  
 
----
+-
 
 ## Project 4：Expert-Aware Quantization and Sparsity for MoE- based Models  
 
