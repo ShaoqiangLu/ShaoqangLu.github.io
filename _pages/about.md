@@ -378,31 +378,36 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 - Resources Usage (left)   vs.   Model Results (right) <sub>\* We report the first token latency.</sub>
 
 <style>
-.table-responsive {
+/* 所有 Markdown 表格的通用自适应样式 */
+table {
   width: 100%;
-  overflow-x: auto;        /* 手机端可以左右滑动 */
+  border-collapse: collapse;
+  display: block;      /* 让表格块级显示，便于加滚动条 */
+  overflow-x: auto;    /* 手机端左右滑动 */
+  table-layout: fixed; /* 列宽均分，避免某一列特别宽 */
 }
 
-.table-responsive table {
-  width: 100%;             /* 表格占满容器宽度 */
-  table-layout: fixed;     /* 列宽均分，避免某几列特别宽 */
-}
-
-.table-responsive th,
-.table-responsive td {
-  word-break: break-word;  /* 内容太长就换行 */
+table th,
+table td {
+  word-break: break-word;
   padding: 4px 6px;
 }
 </style>
 
-<div class="table-responsive">
-
+<!-- 表 1 -->
 | Resource | **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| **Used**    | 947684 | 1806396 | 1004 | 4364 |  | **Latency\*** (ms) | 3.41 | 6.96 | 59.49 | 149.57 |
-| **Util(%)** | 80.1%  | 76.3%   | 46.5%| 63.8%|  | **Throughput** (TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
+| **Used**      | 947684  | 1806396 | 1004 | 4364 |  | **Latency\*** (ms)     | 3.41 | 6.96 | 59.49 | 149.57 |
+| **Util(%)**   | 80.1%   | 76.3%   | 46.5%| 63.8%|  | **Throughput** (TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
 
-</div>
+
+
+
+
+
+
+
+
 
 **Tools**  
 - Vivado , FPGA (U200) , Verilog , ModelSim , PCIe , DDR , XDMA , C++ , Python , PyTorch
@@ -443,34 +448,18 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 
 - Camera: OV5640, RGB565, 5 MP ; Display: HBMI, RGB888, 640×480 @ 60 Hz ; Memory: DDR3 ×2 (8 Gb each).  
 
-<style>
-.table-responsive {
-  width: 100%;
-  overflow-x: auto;        /* 手机端可以左右滑 */
-}
 
-.table-responsive table {
-  width: 100%;             /* 表格占满容器宽度 */
-  table-layout: fixed;     /* 列宽平均分，避免某几列无限变宽 */
-}
-
-.table-responsive th,
-.table-responsive td {
-  word-break: break-word;  /* 内容过长就自动换行 */
-  padding: 4px 6px;
-}
-</style>
-
-<div class="table-responsive">
-
-| Resource | Used  | Utilization |  | SMIC55 | Report |  | Platform | Implement | Latency |
+<!-- 表 2 -->
+| Resource | Used  | Utilization |  | SMIC55 | Report |  | Platform  | Implement | Latency |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| LUT | 36583| 57.70% |  | ASIC Area        | 61801 μm²            |  | CPU       | OpenCV | 33 ms    |
-| FF  | 36130| 28.50% |  | PT Power         | 361.5 μW             |  | FPGA      | RTL    | 42 ms    |
-| BRAM| 101  | 75.00% |  | NAND2 area       | 1.12 μm²/gate        |  | Cortex-M3 | C      | 2,700 ms |
-| DSP | 27   | 11.00% |  | Gates/MOScount   | 55180/ ≈220k         |  | Speedup   |Cortex/FPGA| ≈ 60x    |
+| LUT  | 36583 | 57.70% |  | ASIC Area      | 61801 μm²          |  | CPU       | OpenCV | 33 ms    |
+| FF   | 36130 | 28.50% |  | PT Power       | 361.5 μW           |  | FPGA      | RTL    | 42 ms    |
+| BRAM | 101   | 75.00% |  | NAND2 area     | 1.12 μm²/gate      |  | Cortex-M3 | C      | 2,700 ms |
+| DSP  | 27    | 11.00% |  | Gates/MOScount | 55180 / ≈220k      |  | Speedup   | Cortex/FPGA | ≈ 60x |
 
-</div>
+
+
+
 
 
 
