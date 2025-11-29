@@ -377,28 +377,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 
 - Resources Usage (left)   vs.   Model Results (right) <sub>\* We report the first token latency.</sub>
 
-<style>
-/* 所有 Markdown 表格的通用自适应样式 */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  display: block;      /* 让表格块级显示，便于加滚动条 */
-  overflow-x: auto;    /* 手机端左右滑动 */
-  table-layout: fixed; /* 列宽均分，避免某一列特别宽 */
-}
-
-table th,
-table td {
-  word-break: break-word;
-  padding: 4px 6px;
-}
-</style>
-
-<!-- 表 1 -->
 | Resource | **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| **Used**      | 947684  | 1806396 | 1004 | 4364 |  | **Latency\*** (ms)     | 3.41 | 6.96 | 59.49 | 149.57 |
-| **Util(%)**   | 80.1%   | 76.3%   | 46.5%| 63.8%|  | **Throughput** (TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
+|:--------|:-------:|:------:|:--------:|:-------:|:-:|:------|:--------:|:-------:|:--------:|:-----------:|
+| **Used**    | 947684  | 1806396 | 1004 | 4364 |   | **Latency\*** (ms)       | 3.41 | 6.96 | 59.49 | 149.57 |
+| **Util(%)** | 80.1%   | 76.3%   | 46.5%| 63.8%|   | **Throughput** (TOP/s)   | 6.08 | 4.66 | 7.42 | 7.99 |
 
 
 
@@ -448,14 +430,12 @@ table td {
 
 - Camera: OV5640, RGB565, 5 MP ; Display: HBMI, RGB888, 640×480 @ 60 Hz ; Memory: DDR3 ×2 (8 Gb each).  
 
-
-<!-- 表 2 -->
-| Resource | Used  | Utilization |  | SMIC55 | Report |  | Platform  | Implement | Latency |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| LUT  | 36583 | 57.70% |  | ASIC Area      | 61801 μm²          |  | CPU       | OpenCV | 33 ms    |
-| FF   | 36130 | 28.50% |  | PT Power       | 361.5 μW           |  | FPGA      | RTL    | 42 ms    |
-| BRAM | 101   | 75.00% |  | NAND2 area     | 1.12 μm²/gate      |  | Cortex-M3 | C      | 2,700 ms |
-| DSP  | 27    | 11.00% |  | Gates/MOScount | 55180 / ≈220k      |  | Speedup   | Cortex/FPGA | ≈ 60x |
+| Resource | Used  | Utilization |   | SMIC55  | Report              |   | Platform  | Implement   | Latency   |
+|:--------|:-----:|:-----------:|:-:|:--------|:--------------------|:-:|:----------|:-----------:|:---------:|
+| LUT     | 36583 | 57.70%      |   | ASIC Area      | 61801 μm²       |   | CPU       | OpenCV      | 33 ms     |
+| FF      | 36130 | 28.50%      |   | PT Power       | 361.5 μW        |   | FPGA      | RTL         | 42 ms     |
+| BRAM    | 101   | 75.00%      |   | NAND2 area     | 1.12 μm²/gate   |   | Cortex-M3 | C           | 2,700 ms  |
+| DSP     | 27    | 11.00%      |   | Gates/MOScount | 55180 / ≈220k   |   | Speedup   | Cortex/FPGA | ≈ 60x     |
 
 
 
