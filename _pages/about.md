@@ -379,10 +379,8 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 
 | Resource | **LUT** | **FF** | **BRAM** | **DSP** | | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** | 
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---| 
-| **Used** | 947684 | 1806396 | 1004 | 4364 | 
-| **Latency\*** (ms) | 3.41 | 6.96 | 59.49 | 149.57 | 
-| **Util(%)** | 80.1% | 76.3% | 46.5% | 63.8% | 
-| **Throughput** (TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
+| **Used** | 947684 | 1806396 | 1004 | 4364 | | **Latency\*** (ms) | 3.41 | 6.96 | 59.49 | 149.57 | 
+| **Util(%)** | 80.1% | 76.3% | 46.5% | 63.8% | | **Throughput** (TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
 
 
 
