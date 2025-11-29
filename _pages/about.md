@@ -39,7 +39,7 @@ redirect_from:
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 7px 0;">
 
-I have been a Ph.D. candidate at the School of Integrated Circuits, <span style="color:#0969da; text-decoration: underline;">Shanghai Jiao Tong University (SJTU)</span>, since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the <span style="color:#0969da; text-decoration: underline;">Eastern Institute of Technology (EIT), Ningbo</span>. Prior to that, I obtained my M.S. degree from <span style="color:#0969da; text-decoration: underline;">Xidian University</span>, supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
+I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jiao Tong University (SJTU), since September 2022, under the supervision of [Prof. Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the Eastern Institute of Technology (EIT), Ningbo. Prior to that, I obtained my M.S. degree from Xidian University, supervised by [Prof. Kang Li](https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm).
 
 
 
@@ -91,7 +91,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, <span style=
   🏆 Awards
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
-- *2025.11*: &nbsp;🏅 1st Prize, the <span style="color:#0969da; text-decoration: underline;">Build Your Dreams (BYD) Scholarship</span>, Shanghai Jiao Tong University — Rank 3/160, <!--¥20000 RMB https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html--> 
+- *2025.11*: &nbsp;🏅 1st Prize, the Build Your Dreams (BYD) Scholarship, Shanghai Jiao Tong University — Rank 3/160, <!--¥20000 RMB https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html--> 
 - *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special Second Prize GalaxyCore Technology Co., Ltd — Rank 50/499, <!--¥5000 RMB-->
 - *2021.7*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)— Northwest Region, Rank 57/180
 - *2020.10*: &nbsp;🥈 2nd Prize, the [3rd "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/AwZsIw1SNVQMaqknOuSJHg?click_id=2), Special First Prize S2C Technology Co., Ltd — Rank 24/453, <!--¥18000 RMB-->
